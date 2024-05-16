@@ -1,4 +1,4 @@
-# Code for CSN metric
+# Code for "No-reference quality assessment for underwater images", Computers and Electrical Engineering"
 
 This code is for the paper: 
 
