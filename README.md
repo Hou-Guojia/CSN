@@ -2,7 +2,7 @@
 
 1. This code is for the paper: 
 
-    Guojia Hou, Siqi Zhang, Ting Lu, Yuxuan Li, Zhenkuan Pan, Baoxiang Huang, "No-reference quality assessment for underwater images", Computers and Electrical Engineering, 2024, doi: https://doi.org/10.1016/j.compeleceng.2024.109293.
+    Guojia Hou, Siqi Zhang, Ting Lu, Yuxuan Li, Zhenkuan Pan, Baoxiang Huang, "No-reference quality assessment for underwater images", Computers and Electrical Engineering, 2024, 118, Part A.
 
     The code can only be used for non-commercial purpose. If you use our code, please cite the paper.
 
